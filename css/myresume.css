@@ -36,6 +36,15 @@ p.lead {
 	color: #00384d!important;
 }
 
-a {
-	color: #fafafa!important;
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+	color: #041d42
 }
+
+body {
+	color: #092c94
+}
+
+a {
+	color: #35054d
+}
+	
