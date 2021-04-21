@@ -4,8 +4,8 @@ body {
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     font-family: 'Noto Sans TC', sans-serif;
-	}
-
+	font-weight: 700;
+    }
 .subheading {
     font-family: 'Noto Sans TC', sans-serif;
 	font-size: 1.2rem;
@@ -17,7 +17,7 @@ h1, h2, h3, h4, h5, h6, .subheading{
 }
 
 h1, .h1 {
-    font-size: 5rem;
+    font-size: 6rem;
 	
 }
 
